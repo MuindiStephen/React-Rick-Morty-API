@@ -16,4 +16,12 @@
 - consuming API
 - Data fetching using useEffect Hook
 - Data Storing using useState Hook
+- axios
+- react jsx
+- react components
+- react routing
+- react paginate
+- react filters
+- react search
+- react dynamic pages in routing
 
