@@ -1,4 +1,4 @@
-# Getting Started on: Install the following commands on the command line vscode one by one
+## Getting Started on: Install the following commands on the command line vscode one by one
 - npx create-react-app
 - npm install bootstrap
 - npm install sass
