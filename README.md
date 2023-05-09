@@ -26,5 +26,7 @@
 - react filters
 - react search
 - react dynamic pages in routing
+## DevOps
+- SonarCloud/Sonar Cube - an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs and code smells on 29 programming language
 
 > Noticeables : Deploying to azure cloud is failing.
