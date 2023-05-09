@@ -27,3 +27,4 @@
 - react search
 - react dynamic pages in routing
 
+> Noticeables : Deploying to azure cloud is failing.
