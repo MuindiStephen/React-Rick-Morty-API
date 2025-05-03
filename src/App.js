@@ -13,13 +13,10 @@ import Card from './Components/Card/Card';
 //import Pagination from './Components/Pagination/Pagination';
 
 
-
-
 function App() {
 
   // Rick-Morty API
   let api = `https://rickandmortyapi.com/api/character/`;
-
 
   // useEffect hook will be used to fetch the data from the API
   useEffect (() => { 
@@ -40,7 +37,6 @@ function App() {
   let {info, results} = fetchedData; // destructure the data from the API into info and results
                       //means unpacking the data from the API into info and results
                       //unpacking values from arrays into distinct variables
-
 
   return (
     <div className="App">
