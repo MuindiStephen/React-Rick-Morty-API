@@ -28,3 +28,6 @@
 - react dynamic pages in routing
 
 ## Screenshots
+<p width="70%">
+ <img src="screenshot.png"/>
+</p>
